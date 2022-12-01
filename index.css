@@ -2,7 +2,7 @@
 
 
     
-@media only screen and (min-width: 375px){
+@media only all screen and (min-width: 375px){
 
 
 
@@ -152,7 +152,7 @@ button{
 
 }
 }
-@media only screen and (max-width: 375px) {
+@media only all and (max-width: 375px) {
 
     body{
         background-color: hsl(204, 43%, 93%);
